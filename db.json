@@ -1,0 +1,28 @@
+{
+  "cases": [
+    {
+      "id": 1,
+      "case_name": "Test Case Module 1",
+      "client": "Q&A LTDA",
+      "case_status": "OPEN"
+    },
+    {
+      "id": 2,
+      "case_name": "Test Case Module 2",
+      "client": "Gbit Corp",
+      "case_status": "OPEN"
+    },
+    {
+      "id": 3,
+      "case_name": "Test Case Module 3",
+      "client": "Core3",
+      "case_status": "OPEN"
+    },
+    {
+      "id": 4,
+      "case_name": "AR - Test Case Module 4",
+      "client": "Q&A LTDA",
+      "case_status": "OPEN"
+    }
+  ]
+}
